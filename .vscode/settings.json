@@ -1,5 +1,15 @@
 {
     "cSpell.words": [
-        "ASPNETCORE"
+        "ASPNETCORE",
+        "bootswatch",
+        "codelyzer",
+        "devkit",
+        "jasminewd",
+        "kolkov",
+        "Npgsql",
+        "signalr",
+        "timeago",
+        "toastr",
+        "weatherforecast"
     ]
 }
