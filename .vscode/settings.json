@@ -1,9 +1,12 @@
 {
     "cSpell.words": [
         "ASPNETCORE",
+        "Autoincrement",
         "bootswatch",
         "codelyzer",
         "devkit",
+        "hmac",
+        "HMACSHA",
         "jasminewd",
         "kolkov",
         "Npgsql",
